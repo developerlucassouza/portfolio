@@ -4,6 +4,7 @@ body {
 }
 
 h1, h2 {
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -13,6 +14,7 @@ main.container {
 
 #foto {
     border-radius: 50%;
+    box-shadow: 0px 0px 20px #8694C1;
     display: block;
     margin: auto;
 }
@@ -33,10 +35,15 @@ main.container {
     font-size: 2em;
 }
 
-/* .carousel-item img {
-    height: 500px;
-} */
+.carousel {
+    transition: 1s;
+}
 
+.carousel:hover {
+    box-shadow: 0px 0px 10px white;
+}
+
+/* Legenda do Carrossel */
 .carousel-caption {
     background-color: #333333;
     border-radius: 20px;
