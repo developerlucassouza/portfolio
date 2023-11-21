@@ -1,0 +1,81 @@
+body {
+    background-color: #333333;
+    color: #CCCCCC;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+main.container {
+    margin: 50px auto;
+}
+
+#foto {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.conhecimentos {
+    list-style-type: none;
+}
+
+.conhecimentos .row {
+    margin: 30px 0;
+}
+
+.conhecimentos .row .col {
+    text-align: center;
+}
+
+.conhecimentos i {
+    font-size: 2em;
+}
+
+.carousel-item img {
+    height: 500px;
+}
+
+.carousel-caption {
+    background-color: #333333;
+    border-radius: 20px;
+    color: #CCCCCC;
+}
+
+
+
+
+
+
+
+
+
+
+.html {
+    color: #FF3336;
+}
+
+.css {
+    color: #007DB7;
+}
+
+.js {
+    color: #EFD81D;
+}
+
+.jquery {
+    color: #21ACE2;
+}
+
+.bootstrap {
+    color: #583D7F;
+}
+
+.php {
+    color: #8694C1;
+}
+
+.mysql {
+    color: #E3752C;
+}
