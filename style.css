@@ -33,14 +33,24 @@ main.container {
     font-size: 2em;
 }
 
-.carousel-item img {
+/* .carousel-item img {
     height: 500px;
-}
+} */
 
 .carousel-caption {
     background-color: #333333;
     border-radius: 20px;
     color: #CCCCCC;
+}
+
+/* Botões do Carrossel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+    border-radius: 20px;
+    height: 30px;
+    padding: 10px !important;
+    width: 100px;
 }
 
 
