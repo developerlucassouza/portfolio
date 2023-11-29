@@ -9,6 +9,38 @@ h1, h2 {
     text-align: center;
 }
 
+nav.bg-dark {
+    background-color: black !important;
+}
+
+nav.bg-dark a:link,
+nav.bg-dark a:visited {
+    color: white !important;
+}
+
+nav.bg-dark a:hover,
+nav.bg-dark a:active {
+    color: #CCCCCC !important;
+}
+
+nav.bg-dark div.dropdown-menu {
+    background-color: black !important;
+}
+
+/* nav.bg-dark div.dropdown-menu a:link,
+nav.bg-dark div.dropdown-menu a:visited {
+
+} */
+
+nav.bg-dark div.dropdown-menu a:hover,
+nav.bg-dark div.dropdown-menu a:active {
+    background-color: #222222;
+}
+
+li.nav-item {
+    margin: auto 20px;
+}
+
 main.container {
     margin: 50px auto;
 }
