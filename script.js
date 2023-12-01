@@ -35,7 +35,8 @@ header.innerHTML = `
     <a class="navbar-brand" href="./"><i class="fa-solid fa-code text-danger"></i> Lucas Souza</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
         aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-        <span class="navbar-toggler-icon"></span>
+        <!-- <span class="navbar-toggler-icon"></span> -->
+        <i class="fa-solid fa-bars text-light"></i>
     </button>
 
     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
