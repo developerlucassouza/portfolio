@@ -62,7 +62,7 @@ header.innerHTML = `
                     <a class="dropdown-item" target="_blank" href="#"><i class="fa-brands fa-whatsapp"></i> +55 (11) 98144-4984</a>
 
                     <!-- Email -->
-                    <a class="dropdown-item" target="_blank" href="mailto: lucas10souza9@gmail.com"><i class="fa-solid fa-envelope"></i> lucas10souza9@gmail.com</a>
+                    <a class="dropdown-item" target="_blank" href="mailto:lucas10souza9@gmail.com"><i class="fa-solid fa-envelope"></i> lucas10souza9@gmail.com</a>
 
                     <!-- Instagram -->
                     <a class="dropdown-item" target="_blank" 
