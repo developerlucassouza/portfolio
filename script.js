@@ -59,7 +59,7 @@ header.innerHTML = `
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <!-- WhatsApp -->
-                    <a class="dropdown-item" target="_blank" href="https://wa.me/qr/P4HLMIQXLEPFC1"><i class="fa-brands fa-whatsapp"></i> +55 (11) 98144-4984</a>
+                    <a class="dropdown-item" target="_blank" href="https://wa.me/qr/P4HLMIQXLEPFC1"><i class="fa-brands fa-whatsapp"></i> +55 (11) 98144-4984 zap</a>
 
                     <!-- Email -->
                     <a class="dropdown-item" target="_blank" href="mailto:lucas10souza9@gmail.com"><i class="fa-solid fa-envelope"></i> lucas10souza9@gmail.com</a>
