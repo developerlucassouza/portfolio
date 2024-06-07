@@ -36,7 +36,7 @@ let header = document.querySelector("header");
 header.innerHTML = `
 
 <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-    <a class="navbar-brand" href="./"><i class="fa-solid fa-code text-danger"></i> Lucas Souza</a>
+    <a class="navbar-brand" href="index.html"><i class="fa-solid fa-code text-danger"></i> Lucas Souza</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado"
         aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
         <!-- <span class="navbar-toggler-icon"></span> -->
@@ -59,7 +59,7 @@ header.innerHTML = `
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <!-- WhatsApp -->
-                    <a class="dropdown-item" target="_blank" href="https://wa.me/qr/P4HLMIQXLEPFC1"><i class="fa-brands fa-whatsapp"></i> +55 (11) 98144-4984 zap</a>
+                    <a class="dropdown-item" target="_blank" href="https://wa.me/qr/P4HLMIQXLEPFC1"><i class="fa-brands fa-whatsapp"></i> +55 (11) 98144-4984</a>
 
                     <!-- Email -->
                     <a class="dropdown-item" target="_blank" href="mailto:lucas10souza9@gmail.com"><i class="fa-solid fa-envelope"></i> lucas10souza9@gmail.com</a>
